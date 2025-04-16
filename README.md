@@ -23,7 +23,7 @@
 [原文链接](https://github.com/gococonut/hacker-news/)
 ```
 
-你可以在 [Issues](./issues) 页面浏览每日最新新闻摘要。
+你可以在 [Issues](https://github.com/gococonut/hacker-news/issues) 页面浏览每日最新新闻摘要。
 
 ## 联系反馈
 
