@@ -1,6 +1,6 @@
 # Hacker News 每日摘要自动推送
 
-本项目通过自动化工具，每天从 [Hacker News](https://news.ycombinator.com/) 拉取热门新闻，生成简明摘要，并附上原文链接。所有内容会每日自动发布为一个新的 GitHub Issue，方便回顾和检索。
+本项目只用于汇总 n8n 自动化工具生成内容。每天从 [Hacker News](https://news.ycombinator.com/) 拉取热门新闻，生成简明摘要，并附上原文链接。所有内容会每日自动发布为一个新的 GitHub Issue，方便回顾和检索。
 
 ## 功能简介
 
@@ -16,9 +16,9 @@
 2025-04-16 Hacker News
 
 ```md
-# Show HN: My New Automation Tool
+# 每日 Hacker New 
 
-一款用于自动化流程的新工具，支持多种第三方服务集成。
+每天从 [Hacker News](https://news.ycombinator.com/) 拉取热门新闻，生成简明摘要，并附上原文链接。
 
 [原文链接](https://github.com/gococonut/hacker-news/)
 ```
